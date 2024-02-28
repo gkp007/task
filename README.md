@@ -1,1 +1,1 @@
-# task
+dev command `npm run dev`
